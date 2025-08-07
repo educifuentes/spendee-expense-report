@@ -3,3 +3,4 @@ altair
 jupyter
 duckdb
 ipython-sql
+sqlalchemy
