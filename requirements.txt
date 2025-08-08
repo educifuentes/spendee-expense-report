@@ -4,3 +4,5 @@ jupyter
 duckdb
 ipython-sql
 sqlalchemy
+pyarrow
+fastparquet
